@@ -1,0 +1,11 @@
+1) fix merge to prod & master (branch from prod)
+new feature merge to master, then PR to prod: conflict?
+
+
+2) fix merge to prod, then prod to master
+new feature merge to master, then PR to prod: conflict?
+
+
+
+3) feature merge master then prod
+Test again 1 & 2
