@@ -7,5 +7,9 @@ new feature merge to master, then PR to prod: conflict?
 
 
 
-3) feature merge master then prod
+REMOVE 3) feature merge master then prod
 Test again 1 & 2
+
+
+Test 4) hotfix to master then master to prod
+--- this should be same as normal feature in
